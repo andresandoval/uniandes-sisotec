@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SISOTEC", "SISOTEC\SISOTEC.vbproj", "{3753C80D-392C-41AB-9959-3DF334E3FA74}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Sisotec", "Setup_Sisotec\Setup_Sisotec.vdproj", "{A12F96B8-A390-4FD6-8D97-DE845996A756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3753C80D-392C-41AB-9959-3DF334E3FA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3753C80D-392C-41AB-9959-3DF334E3FA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3753C80D-392C-41AB-9959-3DF334E3FA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3753C80D-392C-41AB-9959-3DF334E3FA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12F96B8-A390-4FD6-8D97-DE845996A756}.Debug|Any CPU.ActiveCfg = Debug
+		{A12F96B8-A390-4FD6-8D97-DE845996A756}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
